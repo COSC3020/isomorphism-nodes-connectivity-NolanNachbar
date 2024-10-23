@@ -21,7 +21,7 @@ $$
 1 \to a \\
 2 \to b \\
 3 \to c \\
-\vdots &
+\vdots 
 \end{align}
 $$
 
