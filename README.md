@@ -17,20 +17,14 @@ Consider two graphs $A$ and $B$ that are completely connected and have both have
 Let $[ 1, 2, 3, \dots, V ]$ represent the vertices of $A$ and $[ a, b, c, \dots ]$ represent the vertices of $B$. Because both graphs are completely connected, any arbitrary one-to-one mapping will preserve the required edge connectivity and thus satisfy the requirements of $f$ in the formal definition. For example, $f: V_1 \rightarrow V_2$ could take 
 
 $$
-1 \to a 
+\begin{aligned}
+1 & \to a \\
+2 & \to b \\
+3 & \to c \\
+\vdots &
+\end{aligned}
 $$
 
-$$
-2 \to b 
-$$
-
-$$
-3 \to c 
-$$
-
-$$
-\vdots
-$$
 
 Thus, $A$ and $B$ are isomorphic. 
 
