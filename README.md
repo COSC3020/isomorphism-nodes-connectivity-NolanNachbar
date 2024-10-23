@@ -14,7 +14,7 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 Consider two graphs $A$ and $B$ that are completely connected and have both have $V$ vertices. 
 
-Let $[ 1, 2, 3, \dots, V ]$ represent the vertices of $A$ and $[ a, b, c, \dots ]$ represent the vertices of $B$. Now consider an arbitrary mapping $f:V_1 \rightarrow V_2$:
+Let $[ 1, 2, 3, \dots, V ]$ represent the vertices of $A$ and $[ a, b, c, \dots ]$ represent the vertices of $B$. Now consider an arbitrary mapping $M:V_1 \rightarrow V_2$:
 
 $$
 \begin{align}
@@ -26,9 +26,9 @@ V \to .
 \end{align}
 $$
 
-This shows that 
+This shows that $M$ both is one-to-one and onto and because both $A$ and $B$ are completely connected, hence $A$ and $B$ are isomorphic.
 
-Because both graphs are completely connected, an one-to-one mapping will preserve the required edge connectivity and thus satisfy the requirements of $f$ in the formal definition.
+More generally, because both graphs are completely connected, an one-to-one mapping will preserve the required edge connectivity and thus satisfy the requirements of $f$ in the formal definition.
 Thus, $A$ and $B$ are isomorphic. 
 
 I certify that I have listed all sources used to complete this exercise, including the use of any large language models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice. 
