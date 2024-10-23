@@ -14,7 +14,7 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 Consider two graphs $A$ and $B$ that are completely connected and have both have $V$ vertices. 
 
-Let $\{ 1, 2, 3, \dots, V\}$ represent the vertices of $A$ and $\{ a, b, c, \dots \}$ represent the vertices of $B$. Because both graphs are completely connected, any arbitrary one-to-one mapping will preserve the required edge connectivity and thus satisfy the requirements of $f$ in the formal definition. For example, $f: V_1 \rightarrow V_2$ could take 
+Let $\{ 1, 2, 3, \dots, V\}$ represent the vertices of $A$ and ${ a, b, c, \dots }$ represent the vertices of $B$. Because both graphs are completely connected, any arbitrary one-to-one mapping will preserve the required edge connectivity and thus satisfy the requirements of $f$ in the formal definition. For example, $f: V_1 \rightarrow V_2$ could take 
 $$
 1 to a
 2 \to b\\
