@@ -18,8 +18,18 @@ Let $[ 1, 2, 3, \dots, V ]$ represent the vertices of $A$ and $[ a, b, c, \dots 
 
 $$
 1 \to a \\
+$$
+
+$$
 2 \to b \\
+$$
+
+$$
 3 \to c \\
+
+$$
+
+$$
 \vdots
 $$
 
